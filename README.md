@@ -12,3 +12,4 @@ Isi program data base ada 5 Fungsi:
 4. Menghapus Data
 5. Keluar dari program
 
+Untuk menjalankan program hanya butuh menjalankan fungsi menu utama saja.
