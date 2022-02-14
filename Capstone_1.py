@@ -6,7 +6,7 @@
 # Contoh : 00 + 1980 + Inisial nama depan + Inisial nama belakang = 011980BS --> Ben Stone 
 # Akan banyak menggunakan try, except, else (check suatu blok kode dan mengatasi errornya)
 
-
+import sys
 
 
 
@@ -72,7 +72,7 @@ Menu Utama:
         yakin = input('Yakin ingin keluar? [Y/N]: ').upper()
         if yakin == 'Y':
             print('\n== Terima Kasih ==\n')
-            exit()
+            sys.exit()
         elif yakin == 'N':
             menu_utama()
         else:
