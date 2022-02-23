@@ -13,3 +13,7 @@ Isi program data base ada 5 Fungsi:
 5. Keluar dari program
 
 Untuk menjalankan program hanya butuh menjalankan fungsi menu utama saja.
+
+P.S:
+Ada file revisi untuk memperbaiki kesalahan dalam penggunaan try except, dimana seharusnya menggunakan else.
+Karena kesalahan ini jadi ada kesulitan dalam keluar dari program (ketika memilih exit akan terus menjalankan ke menu 1, sampai yang ke 2 baru exit)
